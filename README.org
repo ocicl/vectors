@@ -2,8 +2,9 @@
 
 Simple list vector utilities
 
+
 |---------+--------------------------------------------|
 | source  | git:https://gitlab.com/porky11/vectors.git |
-| commit  | 49585818b3d5c6a66e63a27b6a82445ac4add283   |
+| commit  | 4958581                                    |
 | systems | vectors                                    |
 |---------+--------------------------------------------|
